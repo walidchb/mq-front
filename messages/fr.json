@@ -1,0 +1,85 @@
+{
+  "landingPage": {
+    "sectionOne": {
+      "header": "Système cloud intégré pour les cercles du Coran",
+      "pargraph": "Créez un environnement numérique avancé reliant les superviseurs, les enseignants, les étudiants et les parents, et utilisez des outils modernes pour améliorer les cercles du Coran.",
+      "readNow": "Commencez maintenant",
+      "knowMore": "En savoir plus"
+    },
+    "sectionTwo": {
+      "aboutSchool": "À propos de l'école",
+      "aboutSchoolText": "Le système de l'école coranique est entièrement basé sur le cloud. Il permet de créer un environnement numérique qui relie les superviseurs des classes, leurs enseignants, les étudiants et les parents, en leur offrant des outils modernes pour améliorer les classes de Coran.",
+      "schoolNbr": "Nombre d'écoles coraniques",
+      "studentNbr": "Nombre d'étudiants",
+      "teacherNbr": "Nombre d'enseignants"
+    },
+    "sectionThree": {
+      "title": "Programmes disponibles à l'école",
+      "paragraph": "Découvrez les divers programmes éducatifs que nous proposons dans notre école, conçus pour répondre aux besoins de tous les élèves.",
+      "quran": "Nos programmes spécialisés de mémorisation du Coran offrent des méthodes d'enseignement innovantes qui aident les élèves à mémoriser et à comprendre les significations du Coran facilement et efficacement. Rejoignez-nous maintenant pour une expérience d'apprentissage agréable et complète.",
+      "primaire": "Nos outils d'organisation scolaire sont conçus pour faciliter la gestion de toutes les affaires de l'école de manière efficace. Avec une interface conviviale et des fonctionnalités avancées, vous pouvez améliorer le processus éducatif et garantir un déroulement fluide du travail.",
+      "summer": "Notre système de messagerie intégré permet une communication efficace entre les superviseurs, les enseignants, les élèves et les parents. Communiquez facilement et rapidement avec tous les membres de la communauté éducative pour garantir une expérience d'apprentissage exceptionnelle."
+    },
+    "sectionFour": {
+      "faqTitle": "Questions fréquentes",
+
+      "questions": [
+        {
+          "question": "Quelle est votre politique de retour ?",
+          "answer": "Notre politique de retour dure 30 jours. Si 30 jours se sont écoulés depuis votre achat, malheureusement, nous ne pouvons pas vous offrir de remboursement ou d'échange."
+        },
+        {
+          "question": "Comment puis-je suivre ma commande ?",
+          "answer": "Une fois votre commande expédiée, nous vous enverrons un email avec un numéro de suivi et un lien pour suivre votre colis."
+        },
+        {
+          "question": "Expédiez-vous à l'international ?",
+          "answer": "Oui, nous expédions dans la plupart des pays du monde. Les frais d'expédition et les délais de livraison varient en fonction de la destination."
+        },
+        {
+          "question": "Comment puis-je contacter le service client ?",
+          "answer": "Vous pouvez contacter notre équipe de service client par email à support@example.com ou par téléphone au 1-800-123-4567."
+        },
+        {
+          "question": "Puis-je modifier ma commande après l'avoir passée ?",
+          "answer": "Si vous avez besoin de modifier votre commande, veuillez nous contacter dès que possible. Nous ferons de notre mieux pour répondre à votre demande."
+        }
+      ]
+    },
+    "sectionFive": {
+      "title": "Contactez-nous",
+      "contactUsText": "Avez-vous des questions ou des commentaires ? Faites-le nous savoir !",
+      "yourName": "Entrez votre nom",
+      "yourEmail": "Entrez votre email",
+      "yourPhone": "Entrez votre numéro de téléphone",
+      "yourMessage": "Écrivez votre message ici...",
+      "nameRequired": "Le nom est requis",
+      "InvalidEmail": "Email invalide",
+      "emailRequired": "L'email est requis",
+      "MustDigits": "Doit être des chiffres",
+      "tenDigits": "Doit être exactement 10 chiffres",
+      "phoneRequired": "Le numéro de téléphone est requis",
+      "messageRequired": "Le message est requis",
+      "submit": "Envoyer"
+    }
+  },
+  "navBar": {
+    "appName": "École coranique",
+    "Home": "Accueil",
+    "Documentation": "À propos de nous",
+    "Contact": "Contact",
+    "About": "Faire un don",
+    "login": "Connexion",
+    "register": "S'inscrire"
+  },
+  "Footer": {
+    "DivOneTitle": "École Coranique",
+    "DivOneText": "Le système de l'école coranique est une plateforme cloud intégrée... permettant de créer un environnement numérique reliant les superviseurs des cercles, les enseignants, les étudiants et les parents, en leur fournissant les outils modernes pour améliorer les cercles du Coran.",
+    "DivTwoTitle": "Programmes disponibles",
+    "quran": "Mémorisation du Coran",
+    "primaire": "Organisation de l'école",
+    "summer": "Correspondance",
+    "ContactUs": "Contactez-nous",
+    "copyrights": "Tous droits réservés 2024"
+  }
+}

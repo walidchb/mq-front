@@ -1,0 +1,9 @@
+.sectionOneGradian {
+  background: linear-gradient(
+    to top,
+    #1c3f39,
+    transparent,
+    transparent,
+    transparent
+  );
+}

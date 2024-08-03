@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* styles/globals.css */
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -24,6 +26,14 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+
+.custom-button-primary {
+  @apply bg-PrimaryBtnColor rounded-lg px-3 py-1 text-black mx-1;
+}
+
+.custom-button-bordered {
+  @apply border border-PrimaryBtnColor text-PrimaryBtnColor rounded-lg px-3 py-1 mx-1;
 }
 
 @layer utilities {
